@@ -1,5 +1,6 @@
 # title
-
+<!-- toc -->
+<!-- endtoc -->
 ## subtitle
 
 some text
